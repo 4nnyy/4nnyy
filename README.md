@@ -20,6 +20,14 @@
 
 ---
 
+```bash
+$ whoami
+> Annyy — BTech CS (AI) student, building ANNYY on the side.
+> Turns single HTML files into websites clients actually want to pay for.
+```
+
+---
+
 ### About
 
 I'm a BTech Computer Science (AI) student and the developer behind **ANNYY**, a freelance web development practice building premium, production-ready websites — currently focused on institutional clients like schools. My work centers on clean full-stack engineering, thoughtful UI design, and shipping single-file, deploy-anywhere builds without sacrificing polish.
@@ -108,8 +116,6 @@ Personal portfolio site with a hacker/terminal theme — live clock, scroll prog
 
 ### Experience
 
-> _No professional roles listed yet — add real internships or freelance engagements here as they happen._
-
 **Founder — ANNYY**
 *Ongoing*
 Independent freelance web development practice delivering premium websites to institutional clients.
@@ -118,17 +124,6 @@ Independent freelance web development practice delivering premium websites to in
 - Managed direct client relationships and iterative design feedback cycles
 
 `HTML` `CSS` `JavaScript` `Client Management` `Netlify`
-
----
-
-### Coding Profiles
-
-> _Add your real handles below and the badges will resolve automatically._
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-1e1b2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GfG-1e1b2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1e1b2e?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1e1b2e?style=for-the-badge&logo=codechef&logoColor=5B4638)](#)
 
 ---
 
@@ -196,4 +191,3 @@ _"Building things that don't look like everyone else's."_
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
-
